@@ -1,6 +1,8 @@
 
 ##  Voice Conversion Using Speech-to-Speech Neuro-Style Transfer
 
+Please check the original repo to get the latest code
+
 This repo contains the official implementation of the VAE-GAN from the INTERSPEECH 2020 paper [Voice Conversion Using Speech-to-Speech Neuro-Style Transfer](http://www.interspeech2020.org/uploadfile/pdf/Thu-3-4-11.pdf).
 
 
